@@ -18,12 +18,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6288292024190','62882920241909','62882920241908','6281382420312']
+global.owner = ['62882160181655','62882160181655','62882160181655','62882160181655']
 global.packname = 'Hisoka Morrow'
 global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.sessionName = 'hisoka'
+global.sessionName = 'Ruszli'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.ownername = 'DikaArdnt'
+global.ownername = 'Beni'
 global.sp = '⭔'
 global.mess = {
     admin: 'Fitur Khusus Admin Group!',
